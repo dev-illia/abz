@@ -45,4 +45,6 @@ Routes
     
 To optimize the photo at the time of registration (API and front registration), the TinyPNG service was used. Simple connect, docs and just easy for demonstrations api skills. The image cropped, optimized and saved as jpg 70x70px.
 
+Added 45 users with seeder and factory.
+
 
