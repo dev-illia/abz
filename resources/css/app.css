@@ -1,0 +1,11 @@
+.grid{
+    display: grid;
+}
+.users{
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 15px;
+}
+.user{
+    background-color: lightgrey;
+    text-align: center;
+}
