@@ -9,3 +9,7 @@
     background-color: lightgrey;
     text-align: center;
 }
+.links{
+    grid-template-columns: 1fr 1fr;
+    margin: 10px;
+}

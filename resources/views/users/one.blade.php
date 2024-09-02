@@ -8,6 +8,10 @@
 </head>
 <body>
     <div class="container">
+        <div class="links grid">
+            <a href="https://test.smakshopp.com/users">Users</a>
+            <a href="https://test.smakshopp.com/register">Registration</a>
+        </div>
         <h1>User Details</h1>
         <p><strong>ID:</strong> {{ $user->id }}</p>
         <p><strong>Name:</strong> {{ $user->name }}</p>

@@ -8,7 +8,11 @@
 </head>
 <body>
     <div class="container mt-5">
-        
+        <div class="links grid">
+            <a href="https://test.smakshopp.com/users">Users</a>
+            <a href="https://test.smakshopp.com/register">Registration</a>
+        </div>
+
         @if (session('success'))
             <div class="alert alert-success">
                 {{ session('success') }}
